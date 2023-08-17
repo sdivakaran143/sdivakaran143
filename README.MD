@@ -21,15 +21,15 @@
 <h2 align="center">Hey there 👋 I Am Divakaran Senthilkumar</h2>
 
 ###
-<br/><hr><
+<br/><hr>
 <h3 align="center">👩‍💻  About Me</h3>
-br/>
+<br/>
 ###
 
 <p align="left">A &lt;Web Developer/&gt;  from  TamilNadu<br><br>- 🔭 I’m a Student at KSR College Of Engineering <br>- 📚 I'm currently learning React And  MongoDB<br> - ⚡ Active Learner</p>
 
 ###
-
+<br/>
 <h3 align="center">Check out MyPortfoilio<br/><a href="https://divakaransenthilkumar.onrender.com">DivakaranSenthilkumar</a></h3>
 
 ###
