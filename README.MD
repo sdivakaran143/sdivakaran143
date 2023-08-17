@@ -34,7 +34,7 @@
 
 ###
 <br/><hr><br/>
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -63,8 +63,9 @@
 </div>
 
 ###
-<br/><hr><br/>
+<br/><hr>
 <h3 align="center">🔥My Status</h3>
+<br/>
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdivakaran143&show_icons=true&locale=en&layout=compact" alt="sdivakaran143" /></p>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdivakaran143&" alt="sdivakaran143" /></p>
 <div align="center">
