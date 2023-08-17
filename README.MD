@@ -65,9 +65,14 @@
 ###
 
 <h3 align="center">🔥My Status</h3>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sdivakaran143&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdivakaran143&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+<div align="center>
+<a href="https://wa.link/3g8qay" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/sdivakaran143/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  </a>
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/divakaran-senthilkumar-78779b248/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
