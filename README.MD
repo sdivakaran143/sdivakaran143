@@ -66,8 +66,7 @@
 
 <h3 align="center">🔥My Status</h3>
 <div align="center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?  username=sdivakaran143&show_icons=true&locale=en&layout=compact" alt="sdivakaran143" /></p>
-
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdivakaran143&show_icons=true&locale=en&layout=compact" alt="sdivakaran143" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdivakaran143&" alt="sdivakaran143" /></p>
 </div>
 <div align="center">
