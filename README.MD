@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Check out MyPortfoilio : <a href="https://divakaransenthilkumar.onrender.com">divakaransenthilkumar</a></h3>
+<h3 align="center">Check out MyPortfoilio<br/><a href="https://divakaransenthilkumar.onrender.com">DivakaranSenthilkumar</a></h3>
 
 ###
 
