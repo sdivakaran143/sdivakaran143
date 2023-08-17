@@ -24,7 +24,6 @@
 <br/><hr>
 <h3 align="center">👩‍💻  About Me</h3>
 <br/>
-###
 
 <p align="left">A &lt;Web Developer/&gt;  from  TamilNadu<br><br>- 🔭 I’m a Student at KSR College Of Engineering <br>- 📚 I'm currently learning React And  MongoDB<br> - ⚡ Active Learner</p>
 
@@ -35,8 +34,7 @@
 ###
 <br/><hr>
 <h3 align="center">🛠 Language and tools</h3>
-br/>
-###
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
